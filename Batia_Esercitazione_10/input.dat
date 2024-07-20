@@ -1,0 +1,11 @@
+N_Città      110
+N_Cromosomi  1000
+N_steps      1000
+p_crossover  0.9
+p_mutation   0.05
+mig          0
+
+
+ENDINPUT
+
+

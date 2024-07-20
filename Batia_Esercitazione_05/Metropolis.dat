@@ -1,0 +1,10 @@
+DIMENSION           3
+STARTING_POSITION   100 0 0
+DISTRIBUTION        0
+STEPS               1000000
+BLOCKS              400
+
+ENDINPUT
+
+0 -> uniform distribution
+1 -> gaussian distribution

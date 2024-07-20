@@ -1,0 +1,12 @@
+N_Città 34
+Disposizione 0
+N_Cromosomi  300
+N_steps      10000
+p_crossover  0.9
+p_mutation   0.05
+
+
+ENDINPUT
+
+Dispos: 0 -> Circle
+        1 -> Square
